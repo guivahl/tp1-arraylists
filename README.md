@@ -1,0 +1,2 @@
+Implementar um programa que lê um nome e uma senha (entre 4 e 8 caracteres) e verifica se o usuário está autorizado ou não. Para essa verificação, o programa deverá solicitar um pré cadastro dos usuários e suas senhas e armazená-las em uma (ou mais) lista de nomes e respectivas senhas. O programa mostra mensagens de erro se o nome ou a senha estiverem incorretos. São permitidas até 3 tentativas. Utilize APENAS ArrayList para as listas nessa implementação.
+
